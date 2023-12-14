@@ -1,10 +1,14 @@
-Screen Lock Suppresssor
-=============
-定期的にマウスを動かし画面ロックやスクリーンセーバーを抑制するツール。  
-SkypeやTeamsアプリの退席中表示も抑制できます。
+[English](README.md) | [日本語](README.ja.md)
 
-使い方
-------
+# Screen Lock Suppresssor
 
-実行すると終了するまで画面ロックを抑制します。  
-終了する場合はタスクマネージャーからプロセスをキルしてください。
+A tool to suppress screen-locks and screensavers by periodically moving the mouse.
+
+## Usage
+
+When the tool is launched, screen-locks and screensavers are suppressed until terminated.
+To terminate the tool, kill the process from Task Manager.
+
+## License
+
+This software is licensed under the [Unlicense](LICENSE).
